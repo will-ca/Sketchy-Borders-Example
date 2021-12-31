@@ -6,7 +6,6 @@ Note that this mod both overrides FantasyHex and brings in its own tileset; You 
 
 This work is licensed under CC-BY-4.0.
 
-
 ---
 
 #### Border Examples Set:
